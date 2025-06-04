@@ -24,3 +24,18 @@ A modular, AI-augmented Windows 11 debloater script designed to strip bloat, dis
 2. Run:  
    ```powershell
    Set-ExecutionPolicy Bypass -Scope Process -Force; ./ghost-debloat.ps1
+
+---
+
+## Notes
+
+This script was co-developed using GPT-4 for logic optimization, flag modularity, and PowerShell syntax support. Human intelligence guided the vision—AI filled in the syntax.
+
+Use with awareness. Some tweaks are aggressive by default.
+
+---
+
+## Author
+
+**Jay Nicholson** (Dev handle: `Ghotet`)  
+*AI-augmented systems optimizer | github.com/Ghotet*
