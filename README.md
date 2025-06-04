@@ -27,6 +27,23 @@ A modular, AI-augmented Windows 11 debloater script designed to strip bloat, dis
 
 ---
 
+## ⚠️ System Safety Notes
+
+This script is designed specifically for **laptop and portable PC users**.  
+It will **not** disable or affect:
+- Bluetooth functionality
+- Wi-Fi and networking services
+- Audio drivers or touchpad-related components
+
+All aggressive options (like Sticky Notes removal) are **commented out by default**.  
+Restore point is created at the start for rollback support.
+
+If any issues occur or services are impacted unexpectedly, open an issue in the repo and it’ll be reviewed.
+
+> *Precision, not destruction.*
+
+---
+
 ## Notes
 
 This script was co-developed using GPT-4 for logic optimization, flag modularity, and PowerShell syntax support. Human intelligence guided the vision—AI filled in the syntax.
